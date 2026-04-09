@@ -1,10 +1,10 @@
 <template>
     <div class="cont">
         <p class="the"> Contact us on</p>
-        <p class="natty"> <span class="reel">✉️Email:</span> ubumwehotel@gmail.com</p> 
+        <p class="natty"> <span class="reel">✉️Email:</span> nayihembikijoselynne@gmail.com</p> 
         <p class="natty"> <span class="reel">📞Telephone:</span> 0725825567</p>
-        <p class="natty"><span class="reel">instegram:</span> @t__natty</p>
-        <p class="natty"><span class="reel">LinkedIn: </span>@t__natty</p>
+        <p class="natty"><span class="reel">instegram:</span>Joselynne</p>
+        <p class="natty"><span class="reel">LinkedIn: </span>Joselynne</p>
     </div>
 </template>
 
