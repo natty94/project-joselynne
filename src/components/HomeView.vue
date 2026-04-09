@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <section class="hero">
-      <h1>Welcome to UBUMWE Hotel</h1>
-      <p>Luxury and comfort in the heart of Huye district.</p>
+      <h1>Murakazaneza kuri UBUMWE Hotel</h1>
+      <p>Duherereye huye niho wadusanga</p>
       <router-link to="/book" class="cta-button">Book a Room Now</router-link>
       <router-view/>
     </section>
